@@ -1,0 +1,6 @@
+log
+output
+VEnvWindows
+.env
+settings.json
+__pycache__

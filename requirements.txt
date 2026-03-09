@@ -1,0 +1,6 @@
+flet[all]
+python-dotenv
+dataclasses-json
+plotly
+kaleido
+flet-charts

@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "PAGE_TITLE"
+msgstr "Prototipo Flet"
+
+msgid "FILE"
+msgstr "Archivo"
+
+msgid "LOAD_PROJECT"
+msgstr "Cargar proyecto"
+
+msgid "VIEW"
+msgstr "Ver"
+
+msgid "SETTINGS"
+msgstr "Ajustes"
+
+msgid "LANGUAGE_SELECTOR_TITLE"
+msgstr "Selecciona un idioma"
+
+msgid "IMAGE_PICKER_TITLE"
+msgstr "Selecciona una imagen"
+
+msgid "EXPERIMENT_PICKER_TITLE"
+msgstr "Selecciona un archivo de datos"
+
+msgid "PROJECT_LOADER_FAILED_TITLE"
+msgstr "Error cargando el proyecto"
+
+msgid "PROJECT_LOADER_FAILED_DESCRIPTION"
+msgstr "Algo salió mal al cargar el proyecto. Comprueba los logs de la aplicación para obtener más detalles."
+
+msgid "PROJECT_LOADER_FAILED_DISMISS"
+msgstr "Aceptar"
+
+msgid "CONFIG_TAB_SPECTRAL"
+msgstr "Espectral"
+
+msgid "CONFIG_TAB_LABELS"
+msgstr "Etiquetas"
+
+msgid "CONFIG_TAB_POSITIONS"
+msgstr "Posiciones"
+
+msgid "CONFIG_TAB_SETTINGS"
+msgstr "Ajustes"
+
+msgid "CONFIG_TAB_MASKS"
+msgstr "Máscaras"
+
+msgid "ELEMENTS_TAB_ID"
+msgstr "ID"
+
+msgid "ELEMENTS_TAB_ELEMENT"
+msgstr "Elemento"
+
+msgid "PLOT_MEASUREMENTS_BY_POSITION"
+msgstr "Medidas por posición"
+
+msgid "PLOT_POSITIONS"
+msgstr "Posiciones"
+
+msgid "PLOT_MEASUREMENTS"
+msgstr "Medidas"
+
+msgid "DOWNLOAD_IMAGE_FAILED_TITLE"
+msgstr "Descarga fallida"
+
+msgid "DOWNLOAD_IMAGE_FAILED_DESCRIPTION"
+msgstr "Se ha producido un error al descargar la imagen, consulta los logs para obtener más información."
+
+msgid "DOWNLOAD_IMAGE_FAILED_DISMISS"
+msgstr "Aceptar"
+
+msgid "DOWNLOAD_BUTTON_TEXT"
+msgstr "Descargar"

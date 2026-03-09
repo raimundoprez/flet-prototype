@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "PAGE_TITLE"
+msgstr "Flet Prototype"
+
+msgid "FILE"
+msgstr "File"
+
+msgid "LOAD_PROJECT"
+msgstr "Load project"
+
+msgid "VIEW"
+msgstr "View"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "LANGUAGE_SELECTOR_TITLE"
+msgstr "Select a language"
+
+msgid "IMAGE_PICKER_TITLE"
+msgstr "Select an image"
+
+msgid "EXPERIMENT_PICKER_TITLE"
+msgstr "Select a data file"
+
+msgid "PROJECT_LOADER_FAILED_TITLE"
+msgstr "Error loading the project"
+
+msgid "PROJECT_LOADER_FAILED_DESCRIPTION"
+msgstr "Something went wrong when trying to load the project. Check the application logs for details."
+
+msgid "PROJECT_LOADER_FAILED_DISMISS"
+msgstr "Accept"
+
+msgid "CONFIG_TAB_SPECTRAL"
+msgstr "Spectral"
+
+msgid "CONFIG_TAB_LABELS"
+msgstr "Labels"
+
+msgid "CONFIG_TAB_POSITIONS"
+msgstr "Positions"
+
+msgid "CONFIG_TAB_SETTINGS"
+msgstr "Settings"
+
+msgid "CONFIG_TAB_MASKS"
+msgstr "Masks"
+
+msgid "ELEMENTS_TAB_ID"
+msgstr "ID"
+
+msgid "ELEMENTS_TAB_ELEMENT"
+msgstr "Element"
+
+msgid "PLOT_MEASUREMENTS_BY_POSITION"
+msgstr "Measurements by position"
+
+msgid "PLOT_POSITIONS"
+msgstr "Positions"
+
+msgid "PLOT_MEASUREMENTS"
+msgstr "Measurements"
+
+msgid "DOWNLOAD_IMAGE_FAILED_TITLE"
+msgstr "Download failed"
+
+msgid "DOWNLOAD_IMAGE_FAILED_DESCRIPTION"
+msgstr "An error ocurred while your image was being downloaded, check the logs for details."
+
+msgid "DOWNLOAD_IMAGE_FAILED_DISMISS"
+msgstr "Accept"
+
+msgid "DOWNLOAD_BUTTON_TEXT"
+msgstr "Download"
